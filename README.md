@@ -1,4 +1,5 @@
 # ⚡ Electrostatics Explorer
+<!-- Project updated with src folder structure -->
 
 An interactive 3D web application for learning **Electrostatics** (12th Physics Unit 1). Built with React, TypeScript, Three.js, and Tailwind CSS.
 
